@@ -6,8 +6,7 @@
 A phishing website is a common social engineering method that mimics trustful uniform resource locators (URLs) and webpages. The objective of this project is to train machine learning models on the dataset given to predict phishing websites. Both phishing and benign URLs of websites are gathered to form a dataset and from them required URL and website content-based features are extracted. The performance level of each model is measured and compared.
 
 # Data Collection and Analysis
-The given data (https://github.com/IBM-EPBL/IBM-Project-38311-1660377839
-/blob/main/final%20deliverables/data/dataset_website.csv) contains both phishing and benign URLs of websites with various website content-based features.
+The given data (https://github.com/IBM-EPBL/IBM-Project-38311-1660377839/blob/main/final%20deliverables/data/dataset_website.csv) contains both phishing and benign URLs of websites with various website content-based features.
 
 The above mentioned dataset is uploaded to the 'final deliverables/data' folder of this repository.
 
